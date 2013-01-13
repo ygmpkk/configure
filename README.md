@@ -1,4 +1,6 @@
 configure
 =========
 
-各种配置文件
+#Timothy's Configure
+##ArchLinux Awesome WM config
+
